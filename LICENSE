@@ -46,4 +46,17 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 
-please, please, please, please, please, please, leave this project not licensed at gpl, any gpl contribution be ignored and fuck off from the code!!!
+
+**Open Collaboration License (OCL)**
+
+1. **License Grant**: You are granted the freedom to use, modify, and distribute this software. However, any contributions to this project must **not** be made under the GNU General Public License (GPL). Contributions submitted under GPL will be explicitly rejected and disregarded, as we do not support its restrictive nature.
+
+2. **Collaborative Contribution**: We welcome contributions that foster collaboration. If you wish to contribute, you may use a copyleft license, provided it allows the use of contributions under previous licenses. We encourage the selection of copyleft licenses that promote sharing and collaboration without the limitations of GPL or similar licenses.
+
+3. **Disclaimer**: This software is provided "as is," without any warranty of any kind. The authors are not liable for any damages arising from the use or inability to use this software.
+
+4. **License Compatibility**: This license is compatible with any license, regardless of whether they share our vision of open collaboration. However, contributions must remain outside the constraints of GPL.
+
+5. **fuck off GPL**: I have strong reservations about the GPL. While I appreciate the principles of copyleft, I find the limitations of GPL versions 1, 2, and 3 to be restrictive. If you're interested in using copyleft, I encourage you to choose a copyleft license that promotes collaboration and allows for contributions to be shared freely under previous licenses
+
+By using this software, you agree to abide by these terms.
